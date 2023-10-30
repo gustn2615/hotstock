@@ -51,7 +51,7 @@
 
 ## 프로젝트 ERD
 
-![ERD](./이미지/Hotstock 시스템 아키텍처.png)
+![ERD](./이미지/Hotstock_시스템_아키텍처.png)
 
 ## 개발 기간
 
