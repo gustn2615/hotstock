@@ -47,11 +47,12 @@
 
 ## 프로젝트 아키텍쳐
 
-![아키텍쳐](./exec/이미지/HotStock.png)
+![아키텍쳐](./exec/이미지/Hotstock_시스템_아키텍처.png)
 
 ## 프로젝트 ERD
 
-![ERD](./exec/이미지/Hotstock_시스템_아키텍처.png)
+![ERD](./exec/이미지/HotStock.png)
+
 
 ## 개발 기간
 
